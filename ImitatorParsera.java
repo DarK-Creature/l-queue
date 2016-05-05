@@ -3,7 +3,6 @@ package imitatorparsera;
 public class ImitatorParsera {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int kolvo = 90;
 		System.out.println(parser(kolvo));
 	}
